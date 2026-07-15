@@ -1,0 +1,7 @@
+pymem
+win32api
+psutil
+numpy
+opencv-python
+colorama
+mss
